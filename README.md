@@ -1,1 +1,1 @@
-# job_hunt
+A JobHunt app is a mobile application that allows job seekers to search for and apply to job listings,These apps often include features such as the ability to apply to jobs with a single tap, save jobs for later, and receive notifications when a company views your application.
